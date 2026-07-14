@@ -1,5 +1,6 @@
 node_modules
 dist
+node-compile-cache/
 .understand-anything
 *.tsbuildinfo
 .DS_Store

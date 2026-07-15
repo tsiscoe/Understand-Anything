@@ -8,9 +8,11 @@ dist
 coverage/
 *.log
 __pycache__/
-.claude/
+.claude/*
+!.claude/skills/
 .citadel/
 .planning/
+node-compile-cache/
 .worktrees/
 homepage/public/demo/
 .private/

@@ -13,6 +13,12 @@ __pycache__/
 .citadel/
 .planning/
 node-compile-cache/
+.mcp.json
+.codex/config.toml
+.codex/agents/
+.codex-plugin/
+.agents/
+hooks/
 .worktrees/
 homepage/public/demo/
 .private/
